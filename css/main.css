@@ -352,15 +352,12 @@ header .media {
   flex-flow: column nowrap;
   justify-content: space-between;
 }
-.contacts_cover .input_smth {
-  width: 500px;
-  padding: 0 0 21px 0;
-}
 .contacts_cover input,
 .contacts_cover textarea {
   border-radius: 5px;
   width: inherit;
   padding-left: 10px;
+  width: 500px;
 }
 .contacts_cover input {
   height: 40px;
